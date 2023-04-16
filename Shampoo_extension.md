@@ -76,5 +76,8 @@ The available solution is collected and tested through this site: https://malwar
 ![img.png](shampoo_img/resetbrowser3.png)
 ![img.png](shampoo_img/resetbrowser4.png)
 ![img.png](shampoo_img/resetbrowser5.png)
+
+
 4. **DONE**
+
 Congratulations!
