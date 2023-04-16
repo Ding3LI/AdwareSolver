@@ -3,7 +3,7 @@
 It is nothing but hijacks your browser and gives the highest privilege to itself to manage, change, and collect your data.
 
 :point_right: _**Solution Acknowledgement**_ :point_left: \
-The available solution is collected and tested throught this site: https://malwaretips.com/blogs/remove-chrome-display/
+The available solution is collected and tested through this site: https://malwaretips.com/blogs/remove-chrome-display/
 
 ## How to Manually Remove such headache (Windows)
 `Tutorial is suitable for both tech and non-tech people. Do the following copy & paste.`
