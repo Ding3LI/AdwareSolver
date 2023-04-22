@@ -6,4 +6,4 @@
   * [CN](https://github.com/Ding3LI/ease_life_solution/blob/main/wechat_cannot_recivePic_cn.md)
 
 
-# :smirk::smirk:_If this repo helps you, please give it a star and make it available to other players._
+# :smirk::smirk:_If this repo helps you, GREAT! FEEL FREE to add in more headaches that you solved. We share Cypenlin (cyber-penicillin)._
