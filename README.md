@@ -1,6 +1,6 @@
 # Life Saver Collection
 
-* [**Shampoo**](https://github.com/Ding3LI/AdwareSolver/blob/main/Shampoo_extension.md)
+* [**How to Remove Shampoo Extension**](https://github.com/Ding3LI/AdwareSolver/blob/main/Shampoo_extension.md)
 * **WeChat Desktop App Cannot Receive any Attachments**
   * [EN](https://github.com/Ding3LI/ease_life_solution/blob/main/wechat_cannot_recivePic_en.md)
   * [CN](https://github.com/Ding3LI/ease_life_solution/blob/main/wechat_cannot_recivePic_cn.md)
